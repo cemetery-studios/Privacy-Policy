@@ -1,23 +1,23 @@
 <div align="center">
 
 <p align="center">
-  <img src="nirvana.jpg" width="200" height="200">
+  <img src="Grave.jpg" width="200" height="200">
 </p>
 
-# Nirvana
+# Grave
 [![node](https://img.shields.io/badge/node-v20.11.1-green)](#) [![discord.js](https://img.shields.io/badge/discord.js-latest-blue)](#) [![license](https://img.shields.io/badge/license-MIT-red)](#) [![discord](https://img.shields.io/discord/987749138743582811?color=7289da&logo=discord&logoColor=white)](https://discord.gg/9bWCU6VPEM)
 
-Nirvana A Quality Music Bot which Makes You Feel the Music and it's Beats
+Grave A Quality Music Bot which Makes You Feel the Music and it's Beats
 </div>
 
 ---
 <div align="center">
 </div>
 
-# Nirvana Privacy Policy
+# Grave Privacy Policy
 Effective Date: 27 September 2024
 
-At Nirvana, your privacy is our priority. This Privacy Policy explains how we collect, use, and protect your personal information when you use our music bot.
+At Grave, your privacy is our priority. This Privacy Policy explains how we collect, use, and protect your personal information when you use our music bot.
 
 ## Information We Collect
 - User Data: 
@@ -25,7 +25,7 @@ At Nirvana, your privacy is our priority. This Privacy Policy explains how we co
 - Content you send, such as song requests.
 
 ## Usage Data:
-- Interactions with Nirvana, including command usage.
+- Interactions with Grave, including command usage.
 
 ## Device Information:
 - Data about your device, like IP address and browser type.
@@ -61,4 +61,4 @@ For questions or concerns regarding this Privacy Policy, please reach out via ou
 
 [Support Server](https://discord.gg/strings)
 
-Thank you for using Nirvana! Your privacy matters to us.
+Thank you for using Grave! Your privacy matters to us.
